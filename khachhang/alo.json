@@ -1,0 +1,55 @@
+{
+    "name": "alo",
+    "orders": [
+        {
+            "items": [
+                "canh_bau",
+                "canh_rau_muong",
+                "canh_chua_ca",
+                "canh_rau_muong"
+            ],
+            "total_price": 46000,
+            "final_price": 46000,
+            "total_calories": 340
+        },
+        {
+            "items": [
+                "ca_hu_kho",
+                "com_trang",
+                "trung_chien",
+                "ca_hu_kho",
+                "ca_hu_kho"
+            ],
+            "total_price": 125000,
+            "final_price": 87500,
+            "total_calories": 1050,
+            "rating": "Bình thường"
+        },
+        {
+            "items": [
+                "com_trang",
+                "trung_chien",
+                "canh_rau_muong",
+                "dau_bap",
+                "dua_hau"
+            ],
+            "total_price": 49000,
+            "final_price": 49000,
+            "total_calories": 558,
+            "rating": "Chưa tốt"
+        },
+        {
+            "items": [
+                "canh_rau_cai",
+                "com_trang",
+                "ca_hu_kho",
+                "lagim",
+                "lagim"
+            ],
+            "total_price": 67000,
+            "final_price": 67000,
+            "total_calories": 630,
+            "rating": "Bình thường"
+        }
+    ]
+}
